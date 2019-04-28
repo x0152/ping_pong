@@ -1,0 +1,10 @@
+package consts
+
+const (
+	SIZE_FIELD_X  = 800
+	SIZE_FIELD_Y  = 600
+	SIZE_RACKET_X = 10
+	SIZE_RACKET_Y = 150
+	SIZE_BALL     = 16
+	SPEED_PLAYERS = 2
+)
